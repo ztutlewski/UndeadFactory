@@ -1,0 +1,32 @@
+Features:
+	Resource Gathering
+		Wood
+		Rock
+		Ore
+		Skins
+	Inventory
+		Player Inventory
+		NPC Inventory
+		Static Inventory
+	Crafting
+		Smithing
+			Simple Tools
+			Simple Weapons
+			Simple Armor
+		Engineering
+			Advanced tools
+			Advanced Weapons
+			Advanced Armor
+			Automation Machines
+		Architecture
+			Structures
+			Basic Storage
+		Spellcraft
+			Alchemy
+			Creature Summoning
+			Enchantment
+			Combat Spells
+			Utility Spells
+			Magical Equipment
+	Automation via NPCs
+	Automation via machines
